@@ -23,7 +23,7 @@ now it is an obsolete version for my work environment, that's why I post it for 
 	-TOKEN: 2140897780:AAEiqwGdxBPeOT_m_GL0tNNm0ByeeU5YJi8
 	- MODE: prod
 	- CHAT_ID_FORWARD: -1001793515147
-	- HEROKU_APP_NAME: scrapper00
+	- HEROKU_APP_NAME: scrappercc
 '''
 
 
@@ -55,7 +55,7 @@ elif mode == "prod":
 		PORT = int(os.environ.get("PORT", "8443"))
 		HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME")
 		updater.start_webhook(listen="0.0.0.0", port=PORT, url_path=tk)
-		updater.bot.set_webhook(f"https://scraper00.herokuapp.com/"+ tk)
+		updater.bot.set_webhook(f"https://scrappeerr.herokuapp.com/"+ tk)
 else:
 	sys.exit()
 
