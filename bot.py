@@ -15,10 +15,7 @@ import pymongo
 '''
 This bot is developed by @BARROSOE, it is the first version deployed for public scraping,
 now it is an obsolete version for my work environment, that's why I post it for free.
-
-
 ---------------Deploy on Heroku
-
 -Secret keys: 
 	-TOKEN: 5240371480:AAH8qLFxiZKHh3Oo6xvCl6KUSQJ1OetByLw
 	- MODE: prod
