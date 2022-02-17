@@ -20,7 +20,7 @@ now it is an obsolete version for my work environment, that's why I post it for 
 ---------------Deploy on Heroku
 
 -Secret keys: 
-	-TOKEN: 2140897780:AAEiqwGdxBPeOT_m_GL0tNNm0ByeeU5YJi8
+	-TOKEN: 5240371480:AAH8qLFxiZKHh3Oo6xvCl6KUSQJ1OetByLw
 	- MODE: prod
 	- CHAT_ID_FORWARD: -1001793515147
 	- HEROKU_APP_NAME: scrappeerr
